@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Welcome to Slotify</title>
+    <title>Welcome to Slotify</title>
 </head>
 <body>
-  This is the register page of Slotify.
+    This is the register page of Slotify.
 </body>
 </html>
