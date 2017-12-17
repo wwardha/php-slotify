@@ -4,6 +4,6 @@
 		<title>Slotify</title>
 	</head>
 	<body>
-		Welcome to Slotify
+		Hello
 	</body>
 </html>
