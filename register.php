@@ -4,6 +4,6 @@
   <title>Welcome to Slotify</title>
 </head>
 <body>
-  This is the register page.
+  This is the register page of Slotify.
 </body>
 </html>
